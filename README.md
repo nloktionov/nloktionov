@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nloktionov
 - 👀 I’m interested in Java Development
-- 🌱 I’m currently learning Spring
-- 💞️ I’m looking to collaborate on any Java Spring WebApp
+- 🌱 I’m currently working at bukable.co
 - 📫 How to reach me: tg: @nloktionov, e-mail: ns.loktionov@gmail.com
 
 <!---
